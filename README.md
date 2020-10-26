@@ -10,7 +10,7 @@ Banco:
 - Banco de Empresa X
 
 Repositório em constante evolução.<br>
-Poderia retornar num futuro para mais criações.
+Poderei retornar num futuro para futuras manipulações.
 
 ## Ferramentas Utilizadas
 
