@@ -1,13 +1,16 @@
 # :smile: Description
 
 Repositório para manipulação de banco de dados.<br>
-Nele é realizado criação de banco de dados, tabelas e 
+Nele é realizado a criação de diversos banco de dados, tabelas com
 suas relações e consultas SQL.
 
 Banco:
 
 - Banco de Nutrição
 - Banco de Empresa X
+
+Repositório em constante evolução.<br>
+Poderia retornar num futuro para mais criações.
 
 ## Ferramentas Utilizadas
 
