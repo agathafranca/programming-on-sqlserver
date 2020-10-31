@@ -1,22 +1,23 @@
-# :smile: Description
+# :page_facing_up: Description
+# Programming on SQL Server
 
-Repositório para manipulação de banco de dados.<br>
-Nele é realizado a criação de diversos banco de dados, tabelas com
-suas relações e consultas SQL.
+Database manipulation repository. It is used to create databases, objects such as tables with their relations and SQL queries.
 
-Banco:
+### :pushpin: :recycle: Evolving repository 
+I make updates as I learn new things.
+<br>
 
-- Banco de Nutrição
-- Banco de Empresa X
+## :bulb: Main Topics
 
-Repositório em constante evolução.<br>
-Poderei retornar num futuro para futuras manipulações.
+- Creation of database;
+- Creation of objects like tables, constratins, views, procedures, functions and triggers; 
+- Queries.
 
-## Ferramentas Utilizadas
+## :toolbox: Tools Used
 
-- SQL SERVER
-- SQL Server Management Studio
+- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" title="SQL Server 2019 Express">SQL Server 2019 Express</a>
+- <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" title="SQL Server Management Studio (SSMS)">SQL Server Management Studio (SSMS)</a>
 
-## :lock: Licença
+## :lock: License
 
-Desenvolvido por <a href="https://www.linkedin.com/in/agatha-f-1210841ba/" target="_blank" title="My LinkedIn">Agatha França</a>
+Developed by: <a href="https://www.linkedin.com/in/agatha-f-1210841ba/" target="_blank" title="My LinkedIn">Agatha França</a>
